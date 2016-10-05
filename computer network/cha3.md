@@ -20,7 +20,7 @@
   ![3.10](img3/pic3.10.png)
 - rdt2.1
   ![3.11](img3/pic3.11.png)
-  ![3.12](img3/pic3.12.png)
+  ![3.12](img3/PIC3.12.png)
 - rdt2.2:无NAK的可靠数据传输协议
   ![3.13](img3/pic3.13.png)
   ![3.14](img3/pic3.14.png)
